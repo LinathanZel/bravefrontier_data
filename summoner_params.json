@@ -1,0 +1,5167 @@
+[
+    {
+        "category":"Max HP",
+        "icon":"su_skill_icon_01_01.png",
+        "levels":[
+            {
+                "desc":"1% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,1",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"3% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,3",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"10"
+            },
+            {
+                "desc":"5% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,5",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"40"
+            },
+            {
+                "desc":"7% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,7",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"80"
+            },
+            {
+                "desc":"10% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,10",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"130"
+            },
+            {
+                "desc":"12% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,12",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"190"
+            },
+            {
+                "desc":"14% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,14",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"260"
+            },
+            {
+                "desc":"16% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,16",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"340"
+            },
+            {
+                "desc":"18% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,18",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"430"
+            },
+            {
+                "desc":"20% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,20",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"530"
+            },
+            {
+                "desc":"22% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,22",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"11",
+                "sp cost":"640"
+            },
+            {
+                "desc":"24% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,24",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"12",
+                "sp cost":"760"
+            },
+            {
+                "desc":"26% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,26",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"13",
+                "sp cost":"890"
+            },
+            {
+                "desc":"28% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,28",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"14",
+                "sp cost":"1030"
+            },
+            {
+                "desc":"30% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,30",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"15",
+                "sp cost":"1180"
+            },
+            {
+                "desc":"32% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,32",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"16",
+                "sp cost":"1340"
+            },
+            {
+                "desc":"34% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,34",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"17",
+                "sp cost":"1510"
+            },
+            {
+                "desc":"36% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,36",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"18",
+                "sp cost":"1690"
+            },
+            {
+                "desc":"38% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,38",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"19",
+                "sp cost":"1880"
+            },
+            {
+                "desc":"40% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,40",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"20",
+                "sp cost":"2080"
+            },
+            {
+                "desc":"42% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,42",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"21",
+                "sp cost":"2290"
+            },
+            {
+                "desc":"44% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,44",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"22",
+                "sp cost":"2510"
+            },
+            {
+                "desc":"46% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,46",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"23",
+                "sp cost":"2740"
+            },
+            {
+                "desc":"48% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,48",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"24",
+                "sp cost":"2980"
+            },
+            {
+                "desc":"50% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,50",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"25",
+                "sp cost":"3230"
+            },
+            {
+                "desc":"52% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,52",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"26",
+                "sp cost":"3490"
+            },
+            {
+                "desc":"54% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,54",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"27",
+                "sp cost":"3760"
+            },
+            {
+                "desc":"56% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,56",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"28",
+                "sp cost":"4040"
+            },
+            {
+                "desc":"58% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,58",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"29",
+                "sp cost":"4330"
+            },
+            {
+                "desc":"60% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,60",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"30",
+                "sp cost":"4630"
+            },
+            {
+                "desc":"62% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,62",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"31",
+                "sp cost":"4940"
+            },
+            {
+                "desc":"64% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,64",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"32",
+                "sp cost":"5260"
+            },
+            {
+                "desc":"66% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,66",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"33",
+                "sp cost":"5590"
+            },
+            {
+                "desc":"68% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,68",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"34",
+                "sp cost":"5930"
+            },
+            {
+                "desc":"70% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,70",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"35",
+                "sp cost":"6280"
+            },
+            {
+                "desc":"72% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,72",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"36",
+                "sp cost":"6640"
+            },
+            {
+                "desc":"74% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,74",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"37",
+                "sp cost":"7010"
+            },
+            {
+                "desc":"76% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,76",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"38",
+                "sp cost":"7390"
+            },
+            {
+                "desc":"78% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,78",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"39",
+                "sp cost":"7780"
+            },
+            {
+                "desc":"80% boost to max HP",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,80",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"40",
+                "sp cost":"8180"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_41_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,82",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"41",
+                "sp cost":"8590"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_42_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,84",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"42",
+                "sp cost":"9010"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_43_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,86",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"43",
+                "sp cost":"9440"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_44_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,88",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"44",
+                "sp cost":"9880"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_45_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,90",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"45",
+                "sp cost":"10330"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_46_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,92",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"46",
+                "sp cost":"10790"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_47_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,94",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"47",
+                "sp cost":"11260"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_48_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,96",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"48",
+                "sp cost":"11740"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_49_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,98",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"49",
+                "sp cost":"12230"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_50_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,100",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"50",
+                "sp cost":"12730"
+            }
+        ]
+    },
+    {
+        "category":"Attack",
+        "icon":"su_skill_icon_01_02.png",
+        "levels":[
+            {
+                "desc":"1% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"1,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"3% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"3,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"10"
+            },
+            {
+                "desc":"5% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"5,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"40"
+            },
+            {
+                "desc":"7% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"7,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"80"
+            },
+            {
+                "desc":"10% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"10,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"130"
+            },
+            {
+                "desc":"12% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"12,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"190"
+            },
+            {
+                "desc":"14% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"14,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"260"
+            },
+            {
+                "desc":"16% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"16,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"340"
+            },
+            {
+                "desc":"18% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"18,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"430"
+            },
+            {
+                "desc":"20% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"20,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"530"
+            },
+            {
+                "desc":"22% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"22,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"11",
+                "sp cost":"640"
+            },
+            {
+                "desc":"24% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"24,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"12",
+                "sp cost":"760"
+            },
+            {
+                "desc":"26% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"26,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"13",
+                "sp cost":"890"
+            },
+            {
+                "desc":"28% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"28,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"14",
+                "sp cost":"1030"
+            },
+            {
+                "desc":"30% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"30,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"15",
+                "sp cost":"1180"
+            },
+            {
+                "desc":"32% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"32,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"16",
+                "sp cost":"1340"
+            },
+            {
+                "desc":"34% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"34,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"17",
+                "sp cost":"1510"
+            },
+            {
+                "desc":"36% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"36,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"18",
+                "sp cost":"1690"
+            },
+            {
+                "desc":"38% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"38,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"19",
+                "sp cost":"1880"
+            },
+            {
+                "desc":"40% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"40,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"20",
+                "sp cost":"2080"
+            },
+            {
+                "desc":"42% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"42,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"21",
+                "sp cost":"2290"
+            },
+            {
+                "desc":"44% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"44,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"22",
+                "sp cost":"2510"
+            },
+            {
+                "desc":"46% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"46,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"23",
+                "sp cost":"2740"
+            },
+            {
+                "desc":"48% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"48,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"24",
+                "sp cost":"2980"
+            },
+            {
+                "desc":"50% boost to Atk<br>Unlocks \"Boosts Atk relative to how high remaining HP is\"",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"50,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"25",
+                "sp cost":"3230"
+            },
+            {
+                "desc":"52% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"52,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"26",
+                "sp cost":"3490"
+            },
+            {
+                "desc":"54% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"54,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"27",
+                "sp cost":"3760"
+            },
+            {
+                "desc":"56% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"56,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"28",
+                "sp cost":"4040"
+            },
+            {
+                "desc":"58% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"58,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"29",
+                "sp cost":"4330"
+            },
+            {
+                "desc":"60% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"60,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"30",
+                "sp cost":"4630"
+            },
+            {
+                "desc":"62% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"62,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"31",
+                "sp cost":"4940"
+            },
+            {
+                "desc":"64% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"64,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"32",
+                "sp cost":"5260"
+            },
+            {
+                "desc":"66% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"66,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"33",
+                "sp cost":"5590"
+            },
+            {
+                "desc":"68% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"68,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"34",
+                "sp cost":"5930"
+            },
+            {
+                "desc":"70% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"70,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"35",
+                "sp cost":"6280"
+            },
+            {
+                "desc":"72% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"72,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"36",
+                "sp cost":"6640"
+            },
+            {
+                "desc":"74% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"74,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"37",
+                "sp cost":"7010"
+            },
+            {
+                "desc":"76% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"76,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"38",
+                "sp cost":"7390"
+            },
+            {
+                "desc":"78% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"78,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"39",
+                "sp cost":"7780"
+            },
+            {
+                "desc":"80% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"80,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"40",
+                "sp cost":"8180"
+            },
+            {
+                "desc":"82% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"82,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"41",
+                "sp cost":"8590"
+            },
+            {
+                "desc":"84% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"84,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"42",
+                "sp cost":"9010"
+            },
+            {
+                "desc":"86% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"86,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"43",
+                "sp cost":"9440"
+            },
+            {
+                "desc":"88% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"88,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"44",
+                "sp cost":"9880"
+            },
+            {
+                "desc":"90% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"90,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"45",
+                "sp cost":"10330"
+            },
+            {
+                "desc":"92% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"92,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"46",
+                "sp cost":"10790"
+            },
+            {
+                "desc":"94% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"94,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"47",
+                "sp cost":"11260"
+            },
+            {
+                "desc":"96% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"96,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"48",
+                "sp cost":"11740"
+            },
+            {
+                "desc":"98% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"98,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"49",
+                "sp cost":"12230"
+            },
+            {
+                "desc":"100% boost to Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"100,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"50",
+                "sp cost":"12730"
+            }
+        ]
+    },
+    {
+        "category":"Defense",
+        "icon":"su_skill_icon_01_03.png",
+        "levels":[
+            {
+                "desc":"1% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,1,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"3% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,3,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"10"
+            },
+            {
+                "desc":"5% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,5,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"40"
+            },
+            {
+                "desc":"7% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,7,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"80"
+            },
+            {
+                "desc":"10% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,10,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"130"
+            },
+            {
+                "desc":"12% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,12,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"190"
+            },
+            {
+                "desc":"14% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,14,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"260"
+            },
+            {
+                "desc":"16% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,16,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"340"
+            },
+            {
+                "desc":"18% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,18,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"430"
+            },
+            {
+                "desc":"20% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,20,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"530"
+            },
+            {
+                "desc":"22% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,22,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"11",
+                "sp cost":"640"
+            },
+            {
+                "desc":"24% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,24,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"12",
+                "sp cost":"760"
+            },
+            {
+                "desc":"26% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,26,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"13",
+                "sp cost":"890"
+            },
+            {
+                "desc":"28% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,28,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"14",
+                "sp cost":"1030"
+            },
+            {
+                "desc":"30% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,30,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"15",
+                "sp cost":"1180"
+            },
+            {
+                "desc":"32% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,32,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"16",
+                "sp cost":"1340"
+            },
+            {
+                "desc":"34% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,34,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"17",
+                "sp cost":"1510"
+            },
+            {
+                "desc":"36% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,36,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"18",
+                "sp cost":"1690"
+            },
+            {
+                "desc":"38% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,38,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"19",
+                "sp cost":"1880"
+            },
+            {
+                "desc":"40% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,40,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"20",
+                "sp cost":"2080"
+            },
+            {
+                "desc":"42% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,42,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"21",
+                "sp cost":"2290"
+            },
+            {
+                "desc":"44% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,44,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"22",
+                "sp cost":"2510"
+            },
+            {
+                "desc":"46% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,46,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"23",
+                "sp cost":"2740"
+            },
+            {
+                "desc":"48% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,48,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"24",
+                "sp cost":"2980"
+            },
+            {
+                "desc":"50% boost to Def<br>Unlocks \"Boosts Def relative to how low remaining HP is\"",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,50,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"25",
+                "sp cost":"3230"
+            },
+            {
+                "desc":"52% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,52,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"26",
+                "sp cost":"3490"
+            },
+            {
+                "desc":"54% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,54,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"27",
+                "sp cost":"3760"
+            },
+            {
+                "desc":"56% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,56,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"28",
+                "sp cost":"4040"
+            },
+            {
+                "desc":"58% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,58,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"29",
+                "sp cost":"4330"
+            },
+            {
+                "desc":"60% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,60,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"30",
+                "sp cost":"4630"
+            },
+            {
+                "desc":"62% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,62,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"31",
+                "sp cost":"4940"
+            },
+            {
+                "desc":"64% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,64,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"32",
+                "sp cost":"5260"
+            },
+            {
+                "desc":"66% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,66,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"33",
+                "sp cost":"5590"
+            },
+            {
+                "desc":"68% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,68,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"34",
+                "sp cost":"5930"
+            },
+            {
+                "desc":"70% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,70,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"35",
+                "sp cost":"6280"
+            },
+            {
+                "desc":"72% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,72,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"36",
+                "sp cost":"6640"
+            },
+            {
+                "desc":"74% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,74,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"37",
+                "sp cost":"7010"
+            },
+            {
+                "desc":"76% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,76,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"38",
+                "sp cost":"7390"
+            },
+            {
+                "desc":"78% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,78,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"39",
+                "sp cost":"7780"
+            },
+            {
+                "desc":"80% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,80,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"40",
+                "sp cost":"8180"
+            },
+            {
+                "desc":"82% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,82,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"41",
+                "sp cost":"8590"
+            },
+            {
+                "desc":"84% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,84,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"42",
+                "sp cost":"9010"
+            },
+            {
+                "desc":"86% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,86,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"43",
+                "sp cost":"9440"
+            },
+            {
+                "desc":"88% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,88,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"44",
+                "sp cost":"9880"
+            },
+            {
+                "desc":"90% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,90,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"45",
+                "sp cost":"10330"
+            },
+            {
+                "desc":"92% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,92,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"46",
+                "sp cost":"10790"
+            },
+            {
+                "desc":"94% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,94,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"47",
+                "sp cost":"11260"
+            },
+            {
+                "desc":"96% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,96,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"48",
+                "sp cost":"11740"
+            },
+            {
+                "desc":"98% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,98,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"49",
+                "sp cost":"12230"
+            },
+            {
+                "desc":"100% boost to Def",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,100,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"50",
+                "sp cost":"12730"
+            }
+        ]
+    },
+    {
+        "category":"Recovery",
+        "icon":"su_skill_icon_01_04.png",
+        "levels":[
+            {
+                "desc":"1% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,1,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"3% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,3,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"10"
+            },
+            {
+                "desc":"5% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,5,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"40"
+            },
+            {
+                "desc":"7% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,7,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"80"
+            },
+            {
+                "desc":"10% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,10,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"130"
+            },
+            {
+                "desc":"12% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,12,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"190"
+            },
+            {
+                "desc":"14% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,14,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"260"
+            },
+            {
+                "desc":"16% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,16,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"340"
+            },
+            {
+                "desc":"18% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,18,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"430"
+            },
+            {
+                "desc":"20% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,20,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"530"
+            },
+            {
+                "desc":"22% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,22,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"11",
+                "sp cost":"640"
+            },
+            {
+                "desc":"24% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,24,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"12",
+                "sp cost":"760"
+            },
+            {
+                "desc":"26% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,26,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"13",
+                "sp cost":"890"
+            },
+            {
+                "desc":"28% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,28,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"14",
+                "sp cost":"1030"
+            },
+            {
+                "desc":"30% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,30,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"15",
+                "sp cost":"1180"
+            },
+            {
+                "desc":"32% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,32,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"16",
+                "sp cost":"1340"
+            },
+            {
+                "desc":"34% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,34,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"17",
+                "sp cost":"1510"
+            },
+            {
+                "desc":"36% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,36,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"18",
+                "sp cost":"1690"
+            },
+            {
+                "desc":"38% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,38,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"19",
+                "sp cost":"1880"
+            },
+            {
+                "desc":"40% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,40,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"20",
+                "sp cost":"2080"
+            },
+            {
+                "desc":"42% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,42,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"21",
+                "sp cost":"2290"
+            },
+            {
+                "desc":"44% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,44,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"22",
+                "sp cost":"2510"
+            },
+            {
+                "desc":"46% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,46,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"23",
+                "sp cost":"2740"
+            },
+            {
+                "desc":"48% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,48,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"24",
+                "sp cost":"2980"
+            },
+            {
+                "desc":"50% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,50,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"25",
+                "sp cost":"3230"
+            },
+            {
+                "desc":"52% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,52,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"26",
+                "sp cost":"3490"
+            },
+            {
+                "desc":"54% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,54,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"27",
+                "sp cost":"3760"
+            },
+            {
+                "desc":"56% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,56,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"28",
+                "sp cost":"4040"
+            },
+            {
+                "desc":"58% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,58,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"29",
+                "sp cost":"4330"
+            },
+            {
+                "desc":"60% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,60,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"30",
+                "sp cost":"4630"
+            },
+            {
+                "desc":"62% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,62,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"31",
+                "sp cost":"4940"
+            },
+            {
+                "desc":"64% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,64,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"32",
+                "sp cost":"5260"
+            },
+            {
+                "desc":"66% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,66,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"33",
+                "sp cost":"5590"
+            },
+            {
+                "desc":"68% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,68,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"34",
+                "sp cost":"5930"
+            },
+            {
+                "desc":"70% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,70,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"35",
+                "sp cost":"6280"
+            },
+            {
+                "desc":"72% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,72,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"36",
+                "sp cost":"6640"
+            },
+            {
+                "desc":"74% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,74,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"37",
+                "sp cost":"7010"
+            },
+            {
+                "desc":"76% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,76,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"38",
+                "sp cost":"7390"
+            },
+            {
+                "desc":"78% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,78,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"39",
+                "sp cost":"7780"
+            },
+            {
+                "desc":"80% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,80,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"40",
+                "sp cost":"8180"
+            },
+            {
+                "desc":"82% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,82,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"41",
+                "sp cost":"8590"
+            },
+            {
+                "desc":"84% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,84,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"42",
+                "sp cost":"9010"
+            },
+            {
+                "desc":"86% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,86,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"43",
+                "sp cost":"9440"
+            },
+            {
+                "desc":"88% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,88,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"44",
+                "sp cost":"9880"
+            },
+            {
+                "desc":"90% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,90,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"45",
+                "sp cost":"10330"
+            },
+            {
+                "desc":"92% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,92,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"46",
+                "sp cost":"10790"
+            },
+            {
+                "desc":"94% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,94,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"47",
+                "sp cost":"11260"
+            },
+            {
+                "desc":"96% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,96,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"48",
+                "sp cost":"11740"
+            },
+            {
+                "desc":"98% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,98,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"49",
+                "sp cost":"12230"
+            },
+            {
+                "desc":"100% boost to Rec",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,100,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"50",
+                "sp cost":"12730"
+            }
+        ]
+    },
+    {
+        "category":"Spark Damage",
+        "icon":"su_skill_icon_11_01.png",
+        "levels":[
+            {
+                "desc":"1% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"1,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"3% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"3,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"10"
+            },
+            {
+                "desc":"5% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"5,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"40"
+            },
+            {
+                "desc":"7% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"7,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"80"
+            },
+            {
+                "desc":"10% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"10,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"130"
+            },
+            {
+                "desc":"12% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"12,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"190"
+            },
+            {
+                "desc":"14% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"14,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"260"
+            },
+            {
+                "desc":"16% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"16,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"340"
+            },
+            {
+                "desc":"18% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"18,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"430"
+            },
+            {
+                "desc":"20% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"20,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"530"
+            },
+            {
+                "desc":"22% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"22,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"11",
+                "sp cost":"640"
+            },
+            {
+                "desc":"24% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"24,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"12",
+                "sp cost":"760"
+            },
+            {
+                "desc":"26% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"26,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"13",
+                "sp cost":"890"
+            },
+            {
+                "desc":"28% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"28,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"14",
+                "sp cost":"1030"
+            },
+            {
+                "desc":"30% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"30,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"15",
+                "sp cost":"1180"
+            },
+            {
+                "desc":"32% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"32,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"16",
+                "sp cost":"1340"
+            },
+            {
+                "desc":"34% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"34,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"17",
+                "sp cost":"1510"
+            },
+            {
+                "desc":"36% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"36,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"18",
+                "sp cost":"1690"
+            },
+            {
+                "desc":"38% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"38,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"19",
+                "sp cost":"1880"
+            },
+            {
+                "desc":"40% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"40,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"20",
+                "sp cost":"2080"
+            },
+            {
+                "desc":"42% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"42,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"21",
+                "sp cost":"2290"
+            },
+            {
+                "desc":"44% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"44,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"22",
+                "sp cost":"2510"
+            },
+            {
+                "desc":"46% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"46,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"23",
+                "sp cost":"2740"
+            },
+            {
+                "desc":"48% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"48,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"24",
+                "sp cost":"2980"
+            },
+            {
+                "desc":"50% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"50,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"25",
+                "sp cost":"3230"
+            },
+            {
+                "desc":"52% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"52,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"26",
+                "sp cost":"3490"
+            },
+            {
+                "desc":"54% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"54,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"27",
+                "sp cost":"3760"
+            },
+            {
+                "desc":"56% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"56,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"28",
+                "sp cost":"4040"
+            },
+            {
+                "desc":"58% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"58,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"29",
+                "sp cost":"4330"
+            },
+            {
+                "desc":"60% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"60,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"30",
+                "sp cost":"4630"
+            },
+            {
+                "desc":"62% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"62,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"31",
+                "sp cost":"4940"
+            },
+            {
+                "desc":"64% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"64,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"32",
+                "sp cost":"5260"
+            },
+            {
+                "desc":"66% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"66,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"33",
+                "sp cost":"5590"
+            },
+            {
+                "desc":"68% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"68,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"34",
+                "sp cost":"5930"
+            },
+            {
+                "desc":"70% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"70,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"35",
+                "sp cost":"6280"
+            },
+            {
+                "desc":"72% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"72,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"36",
+                "sp cost":"6640"
+            },
+            {
+                "desc":"74% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"74,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"37",
+                "sp cost":"7010"
+            },
+            {
+                "desc":"76% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"76,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"38",
+                "sp cost":"7390"
+            },
+            {
+                "desc":"78% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"78,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"39",
+                "sp cost":"7780"
+            },
+            {
+                "desc":"80% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"80,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"40",
+                "sp cost":"8180"
+            },
+            {
+                "desc":"82% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"82,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"41",
+                "sp cost":"8590"
+            },
+            {
+                "desc":"84% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"84,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"42",
+                "sp cost":"9010"
+            },
+            {
+                "desc":"86% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"86,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"43",
+                "sp cost":"9440"
+            },
+            {
+                "desc":"88% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"88,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"44",
+                "sp cost":"9880"
+            },
+            {
+                "desc":"90% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"90,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"45",
+                "sp cost":"10330"
+            },
+            {
+                "desc":"92% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"92,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"46",
+                "sp cost":"10790"
+            },
+            {
+                "desc":"94% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"94,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"47",
+                "sp cost":"11260"
+            },
+            {
+                "desc":"96% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"96,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"48",
+                "sp cost":"11740"
+            },
+            {
+                "desc":"98% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"98,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"49",
+                "sp cost":"12230"
+            },
+            {
+                "desc":"100% boost to Spark damage",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"100,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"50",
+                "sp cost":"12730"
+            }
+        ]
+    },
+    {
+        "category":"BB Atk",
+        "icon":"su_skill_icon_13_01.png",
+        "levels":[
+            {
+                "desc":"10% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"10,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"20% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"20,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"80"
+            },
+            {
+                "desc":"30% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"30,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"320"
+            },
+            {
+                "desc":"40% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"40,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"640"
+            },
+            {
+                "desc":"50% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"50,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"1040"
+            },
+            {
+                "desc":"60% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"60,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"1520"
+            },
+            {
+                "desc":"70% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"70,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"2080"
+            },
+            {
+                "desc":"80% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"80,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"2720"
+            },
+            {
+                "desc":"90% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"90,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"3040"
+            },
+            {
+                "desc":"100% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"100,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"3280"
+            },
+            {
+                "desc":"110% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"110,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"11",
+                "sp cost":"3520"
+            },
+            {
+                "desc":"120% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"120,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"12",
+                "sp cost":"3760"
+            },
+            {
+                "desc":"130% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"130,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"13",
+                "sp cost":"4000"
+            },
+            {
+                "desc":"140% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"140,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"14",
+                "sp cost":"4240"
+            },
+            {
+                "desc":"150% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"150,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"15",
+                "sp cost":"4480"
+            },
+            {
+                "desc":"160% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"160,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"16",
+                "sp cost":"4720"
+            },
+            {
+                "desc":"170% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"170,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"17",
+                "sp cost":"4960"
+            },
+            {
+                "desc":"180% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"180,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"18",
+                "sp cost":"5200"
+            },
+            {
+                "desc":"190% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"190,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"19",
+                "sp cost":"5440"
+            },
+            {
+                "desc":"200% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"200,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"20",
+                "sp cost":"5680"
+            },
+            {
+                "desc":"210% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"210,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"21",
+                "sp cost":"5920"
+            },
+            {
+                "desc":"220% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"220,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"22",
+                "sp cost":"6160"
+            },
+            {
+                "desc":"230% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"230,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"23",
+                "sp cost":"6400"
+            },
+            {
+                "desc":"240% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"240,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"24",
+                "sp cost":"6640"
+            },
+            {
+                "desc":"250% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"250,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"25",
+                "sp cost":"6880"
+            },
+            {
+                "desc":"260% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"260,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"26",
+                "sp cost":"7120"
+            },
+            {
+                "desc":"270% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"270,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"27",
+                "sp cost":"7360"
+            },
+            {
+                "desc":"280% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"280,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"28",
+                "sp cost":"7600"
+            },
+            {
+                "desc":"290% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"290,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"29",
+                "sp cost":"7840"
+            },
+            {
+                "desc":"300% boost to BB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"300,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"30",
+                "sp cost":"8080"
+            }
+        ]
+    },
+    {
+        "category":"BC & HC Drop Rate",
+        "icon":"su_skill_icon_03_07.png",
+        "levels":[
+            {
+                "desc":"1% boost to BC & HC drop rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"3",
+                        "params":"1,1,0,0,0",
+                        "proc id":"19"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"2% boost to BC & HC drop rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"3",
+                        "params":"2,2,0,0,0",
+                        "proc id":"19"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"40"
+            },
+            {
+                "desc":"3% boost to BC & HC drop rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"3",
+                        "params":"3,3,0,0,0",
+                        "proc id":"19"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"160"
+            },
+            {
+                "desc":"4% boost to BC & HC drop rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"3",
+                        "params":"4,4,0,0,0",
+                        "proc id":"19"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"320"
+            },
+            {
+                "desc":"5% boost to BC & HC drop rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"3",
+                        "params":"5,5,0,0,0",
+                        "proc id":"19"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"520"
+            },
+            {
+                "desc":"6% boost to BC & HC drop rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"3",
+                        "params":"6,6,0,0,0",
+                        "proc id":"19"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"760"
+            },
+            {
+                "desc":"7% boost to BC & HC drop rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"3",
+                        "params":"7,7,0,0,0",
+                        "proc id":"19"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"1040"
+            },
+            {
+                "desc":"8% boost to BC & HC drop rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"3",
+                        "params":"8,8,0,0,0",
+                        "proc id":"19"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"1360"
+            },
+            {
+                "desc":"9% boost to BC & HC drop rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"3",
+                        "params":"9,9,0,0,0",
+                        "proc id":"19"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"1720"
+            },
+            {
+                "desc":"10% boost to BC & HC drop rate<br>Unlocks \"Less BB Consumption\" abilities",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"3",
+                        "params":"10,10,0,0,0",
+                        "proc id":"19"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"2120"
+            }
+        ]
+    },
+    {
+        "category":"Status Ailment Resistance",
+        "icon":"su_skill_icon_05_07.png",
+        "levels":[
+            {
+                "desc":"Boosts status ailment resistance",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"5",
+                        "params":"0,0,0,0,0,0",
+                        "proc id":"4"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"10% boost to status ailment resistance",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"5",
+                        "params":"10,10,10,10,10,10",
+                        "proc id":"4"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"160"
+            },
+            {
+                "desc":"20% boost to status ailment resistance",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"5",
+                        "params":"20,20,20,20,20,20",
+                        "proc id":"4"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"640"
+            },
+            {
+                "desc":"30% boost to status ailment resistance",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"5",
+                        "params":"30,30,30,30,30,30",
+                        "proc id":"4"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"1280"
+            },
+            {
+                "desc":"50% boost to status ailment resistance",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"5",
+                        "params":"50,50,50,50,50,50",
+                        "proc id":"4"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"2080"
+            },
+            {
+                "desc":"60% boost to status ailment resistance",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"5",
+                        "params":"60,60,60,60,60,60",
+                        "proc id":"4"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"2880"
+            },
+            {
+                "desc":"70% boost to status ailment resistance",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"5",
+                        "params":"70,70,70,70,70,70",
+                        "proc id":"4"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"3680"
+            },
+            {
+                "desc":"80% boost to status ailment resistance",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"5",
+                        "params":"80,80,80,80,80,80",
+                        "proc id":"4"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"4480"
+            },
+            {
+                "desc":"90% boost to status ailment resistance",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"5",
+                        "params":"90,90,90,90,90,90",
+                        "proc id":"4"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"5280"
+            },
+            {
+                "desc":"Negates all status ailments",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"5",
+                        "params":"100,100,100,100,100,100",
+                        "proc id":"4"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"6080"
+            }
+        ]
+    },
+    {
+        "category":"Spark Critical",
+        "icon":"su_skill_icon_11_02.png",
+        "levels":[
+            {
+                "desc":"Boosts Spark criticals' success rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"0,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"2% boost to Spark criticals' success rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"2,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"120"
+            },
+            {
+                "desc":"4% boost to Spark criticals' success rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"4,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"480"
+            },
+            {
+                "desc":"6% boost to Spark criticals' success rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"6,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"960"
+            },
+            {
+                "desc":"10% boost to Spark criticals' success rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"10,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"1560"
+            },
+            {
+                "desc":"11% boost to Spark criticals' success rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"11,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"2160"
+            },
+            {
+                "desc":"12% boost to Spark criticals' success rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"12,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"2760"
+            },
+            {
+                "desc":"13% boost to Spark criticals' success rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"13,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"3360"
+            },
+            {
+                "desc":"14% boost to Spark criticals' success rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"14,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"3960"
+            },
+            {
+                "desc":"15% boost to Spark criticals' success rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"15,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"4560"
+            },
+            {
+                "desc":"16% boost to Spark criticals' success rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"16,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"11",
+                "sp cost":"5160"
+            },
+            {
+                "desc":"17% boost to Spark criticals' success rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"17,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"12",
+                "sp cost":"5760"
+            },
+            {
+                "desc":"18% boost to Spark criticals' success rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"18,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"13",
+                "sp cost":"6360"
+            },
+            {
+                "desc":"19% boost to Spark criticals' success rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"19,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"14",
+                "sp cost":"6960"
+            },
+            {
+                "desc":"20% boost to Spark criticals' success rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"20,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"15",
+                "sp cost":"7560"
+            }
+        ]
+    },
+    {
+        "category":"SBB Atk",
+        "icon":"su_skill_icon_13_18.png",
+        "levels":[
+            {
+                "desc":"SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"10% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,10,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"80"
+            },
+            {
+                "desc":"20% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,20,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"320"
+            },
+            {
+                "desc":"30% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,30,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"640"
+            },
+            {
+                "desc":"40% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,40,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"1040"
+            },
+            {
+                "desc":"50% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,50,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"1520"
+            },
+            {
+                "desc":"60% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,60,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"2080"
+            },
+            {
+                "desc":"70% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,70,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"2720"
+            },
+            {
+                "desc":"80% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,80,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"3040"
+            },
+            {
+                "desc":"100% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,100,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"3280"
+            },
+            {
+                "desc":"110% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,110,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"11",
+                "sp cost":"3520"
+            },
+            {
+                "desc":"120% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,120,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"12",
+                "sp cost":"3760"
+            },
+            {
+                "desc":"130% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,130,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"13",
+                "sp cost":"4000"
+            },
+            {
+                "desc":"140% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,140,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"14",
+                "sp cost":"4240"
+            },
+            {
+                "desc":"150% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,150,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"15",
+                "sp cost":"4480"
+            },
+            {
+                "desc":"160% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,160,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"16",
+                "sp cost":"4720"
+            },
+            {
+                "desc":"170% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,170,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"17",
+                "sp cost":"4960"
+            },
+            {
+                "desc":"180% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,180,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"18",
+                "sp cost":"5200"
+            },
+            {
+                "desc":"190% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,190,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"19",
+                "sp cost":"5440"
+            },
+            {
+                "desc":"200% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,200,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"20",
+                "sp cost":"5680"
+            },
+            {
+                "desc":"210% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,210,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"21",
+                "sp cost":"5920"
+            },
+            {
+                "desc":"220% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,220,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"22",
+                "sp cost":"6160"
+            },
+            {
+                "desc":"230% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,230,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"23",
+                "sp cost":"6400"
+            },
+            {
+                "desc":"240% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,240,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"24",
+                "sp cost":"6640"
+            },
+            {
+                "desc":"250% boost to SBB Atk<br>Unlocks \"OD Gauge Fill Rate\" abilities",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,250,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"25",
+                "sp cost":"6880"
+            },
+            {
+                "desc":"260% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,260,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"26",
+                "sp cost":"7120"
+            },
+            {
+                "desc":"270% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,270,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"27",
+                "sp cost":"7360"
+            },
+            {
+                "desc":"280% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,280,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"28",
+                "sp cost":"7600"
+            },
+            {
+                "desc":"290% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,290,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"29",
+                "sp cost":"7840"
+            },
+            {
+                "desc":"300% boost to SBB Atk",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,300,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"30",
+                "sp cost":"8080"
+            }
+        ]
+    },
+    {
+        "category":"Less BB Consumption",
+        "icon":"su_skill_icon_06_07.png",
+        "levels":[
+            {
+                "desc":"Boosts reduction of BB required",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"0",
+                        "proc id":"48"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"2% boost to reduction of BB required",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"2",
+                        "proc id":"48"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"240"
+            },
+            {
+                "desc":"4% boost to reduction of BB required",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"4",
+                        "proc id":"48"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"960"
+            },
+            {
+                "desc":"6% boost to reduction of BB required",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"6",
+                        "proc id":"48"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"1920"
+            },
+            {
+                "desc":"10% boost to reduction of BB required",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"10",
+                        "proc id":"48"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"3120"
+            }
+        ]
+    },
+    {
+        "category":"Atk boost relative to high HP",
+        "icon":"su_skill_icon_01_09.png",
+        "levels":[
+            {
+                "desc":"Acquire \"Boosts Atk relative to how high remaining HP is\"",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,0,0,0",
+                        "proc id":"46"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"Boosts Atk relative to how high remaining HP is",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,50,0,0,0,0,0",
+                        "proc id":"46"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"10000"
+            }
+        ]
+    },
+    {
+        "category":"Def boost relative to low HP",
+        "icon":"su_skill_icon_01_10.png",
+        "levels":[
+            {
+                "desc":"Acquire \"Boosts Def relative to how low remaining HP is\"",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,0,0,1",
+                        "proc id":"46"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"Boosts Def relative to how low remaining HP is",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,50,0,0,1",
+                        "proc id":"46"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"10000"
+            }
+        ]
+    },
+    {
+        "category":"BC Efficacy",
+        "icon":"su_skill_icon_06_06.png",
+        "levels":[
+            {
+                "desc":"Boosts BC efficacy",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"0",
+                        "proc id":"32"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"3% boost to BC efficacy",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"3",
+                        "proc id":"32"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"240"
+            },
+            {
+                "desc":"6% boost to BC efficacy",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"6",
+                        "proc id":"32"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"960"
+            },
+            {
+                "desc":"9% boost to BC efficacy",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"9",
+                        "proc id":"32"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"1920"
+            },
+            {
+                "desc":"15% boost to BC efficacy",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"15",
+                        "proc id":"32"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"3120"
+            },
+            {
+                "desc":"18% boost to BC efficacy",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"18",
+                        "proc id":"32"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"4320"
+            },
+            {
+                "desc":"21% boost to BC efficacy",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"21",
+                        "proc id":"32"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"5520"
+            },
+            {
+                "desc":"24% boost to BC efficacy",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"24",
+                        "proc id":"32"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"6720"
+            },
+            {
+                "desc":"27% boost to BC efficacy",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"27",
+                        "proc id":"32"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"7920"
+            },
+            {
+                "desc":"30% boost to BC efficacy",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"30",
+                        "proc id":"32"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"9120"
+            }
+        ]
+    },
+    {
+        "category":"HC Efficacy",
+        "icon":"su_skill_icon_07_01.png",
+        "levels":[
+            {
+                "desc":"Boosts HC efficacy",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"7",
+                        "params":"0",
+                        "proc id":"10"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"3% boost to HC efficacy",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"7",
+                        "params":"3",
+                        "proc id":"10"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"240"
+            },
+            {
+                "desc":"6% boost to HC efficacy",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"7",
+                        "params":"6",
+                        "proc id":"10"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"960"
+            },
+            {
+                "desc":"9% boost to HC efficacy",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"7",
+                        "params":"9",
+                        "proc id":"10"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"1920"
+            },
+            {
+                "desc":"15% boost to HC efficacy",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"7",
+                        "params":"15",
+                        "proc id":"10"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"3120"
+            },
+            {
+                "desc":"18% boost to HC efficacy",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"7",
+                        "params":"18",
+                        "proc id":"10"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"4320"
+            },
+            {
+                "desc":"21% boost to HC efficacy",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"7",
+                        "params":"21",
+                        "proc id":"10"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"5520"
+            },
+            {
+                "desc":"24% boost to HC efficacy",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"7",
+                        "params":"24",
+                        "proc id":"10"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"6720"
+            },
+            {
+                "desc":"27% boost to HC efficacy",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"7",
+                        "params":"27",
+                        "proc id":"10"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"7920"
+            },
+            {
+                "desc":"30% boost to HC efficacy<br>Unlocks \"KO Resistance\" abilities",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"7",
+                        "params":"30",
+                        "proc id":"10"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"9120"
+            }
+        ]
+    },
+    {
+        "category":"Atk Parameter Limit Break",
+        "icon":"su_skill_icon_14_01.png",
+        "levels":[
+            {
+                "desc":"Acquire Atk parameter limit break",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"99999",
+                        "proc id":"143"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"Atk parameter limits raised to 130000",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"130000",
+                        "proc id":"143"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"50000"
+            },
+            {
+                "desc":"Atk parameter limits raised to 150000",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"150000",
+                        "proc id":"143"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"50000"
+            }
+        ]
+    },
+    {
+        "category":"OD Gauge fill rate",
+        "icon":"su_skill_icon_15_01.png",
+        "levels":[
+            {
+                "desc":"Unlocks \"OD Gauge Fill Rate\" abilities",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"14",
+                        "params":"0",
+                        "proc id":"70"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"2% boost to OD Gauge fill rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"14",
+                        "params":"2",
+                        "proc id":"70"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"240"
+            },
+            {
+                "desc":"4% boost to OD Gauge fill rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"14",
+                        "params":"4",
+                        "proc id":"70"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"960"
+            },
+            {
+                "desc":"6% boost to OD Gauge fill rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"14",
+                        "params":"6",
+                        "proc id":"70"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"1920"
+            },
+            {
+                "desc":"8% boost to OD Gauge fill rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"14",
+                        "params":"8",
+                        "proc id":"70"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"3120"
+            },
+            {
+                "desc":"10% boost to OD Gauge fill rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"14",
+                        "params":"10",
+                        "proc id":"70"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"4320"
+            },
+            {
+                "desc":"12% boost to OD Gauge fill rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"14",
+                        "params":"12",
+                        "proc id":"70"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"5520"
+            },
+            {
+                "desc":"14% boost to OD Gauge fill rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"14",
+                        "params":"14",
+                        "proc id":"70"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"6720"
+            },
+            {
+                "desc":"16% boost to OD Gauge fill rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"14",
+                        "params":"16",
+                        "proc id":"70"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"7920"
+            },
+            {
+                "desc":"18% boost to OD Gauge fill rate",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"14",
+                        "params":"20",
+                        "proc id":"70"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"9120"
+            }
+        ]
+    },
+    {
+        "category":"MST_SU_ABILITY_LEVEL_1019_1_NAME",
+        "icon":"su_skill_icon_16_01.png",
+        "levels":[
+            {
+                "desc":"Acquire \"Resistance against 1 KO attack\"",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,0",
+                        "proc id":"69"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"Resistance against 1 KO attack",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"100,1,100,100,0",
+                        "proc id":"69"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"90000"
+            }
+        ]
+    }
+]

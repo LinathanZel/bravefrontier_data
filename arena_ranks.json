@@ -1,0 +1,1355 @@
+[
+    {
+        "ABP required":500,
+        "name":"Rookie",
+        "rank number":1,
+        "rewards":[],
+        "text file":"arena00.txt"
+    },
+    {
+        "ABP required":1200,
+        "name":"Novice",
+        "rank number":2,
+        "rewards":[
+            {
+                "quantity":1,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena01.txt"
+    },
+    {
+        "ABP required":2000,
+        "name":"Amateur",
+        "rank number":3,
+        "rewards":[
+            {
+                "id":35200,
+                "name":"Mech Sword",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":3000,
+        "name":"Warrior",
+        "rank number":4,
+        "rewards":[
+            {
+                "id":35201,
+                "name":"Flesh Armor",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":5000,
+        "name":"Contender",
+        "rank number":5,
+        "rewards":[
+            {
+                "quantity":1,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena02.txt"
+    },
+    {
+        "ABP required":8000,
+        "name":"Brawler",
+        "rank number":6,
+        "rewards":[
+            {
+                "id":32900,
+                "name":"Star Blade",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":12000,
+        "name":"Heavyweight ",
+        "rank number":7,
+        "rewards":[
+            {
+                "id":35001,
+                "name":"Giant Stone",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":15000,
+        "name":"Duelist",
+        "rank number":8,
+        "rewards":[
+            {
+                "quantity":1,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena03.txt"
+    },
+    {
+        "ABP required":18000,
+        "name":"Tactician",
+        "rank number":9,
+        "rewards":[
+            {
+                "id":34600,
+                "name":"Stealth Robe",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":23000,
+        "name":"Commander",
+        "rank number":10,
+        "rewards":[
+            {
+                "id":34100,
+                "name":"Thief Bracer",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":28000,
+        "name":"Berserker",
+        "rank number":11,
+        "rewards":[
+            {
+                "quantity":1,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena04.txt"
+    },
+    {
+        "ABP required":33000,
+        "name":"Gladiator",
+        "rank number":12,
+        "rewards":[
+            {
+                "id":35202,
+                "name":"Sacred Jewel",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":38000,
+        "name":"Champion",
+        "rank number":13,
+        "rewards":[
+            {
+                "id":33501,
+                "name":"Demon Robe",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":46000,
+        "name":"Sage",
+        "rank number":14,
+        "rewards":[
+            {
+                "quantity":1,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena05.txt"
+    },
+    {
+        "ABP required":54000,
+        "name":"Virtuoso",
+        "rank number":15,
+        "rewards":[
+            {
+                "id":33600,
+                "name":"Soul Spear",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":62000,
+        "name":"Saint",
+        "rank number":16,
+        "rewards":[
+            {
+                "id":34700,
+                "name":"Holy Crown",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":70000,
+        "name":"Guardian",
+        "rank number":17,
+        "rewards":[
+            {
+                "quantity":1,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena06.txt"
+    },
+    {
+        "ABP required":80000,
+        "name":"Knight",
+        "rank number":18,
+        "rewards":[
+            {
+                "id":34800,
+                "name":"Glass Crown",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":90000,
+        "name":"Dragoon",
+        "rank number":19,
+        "rewards":[
+            {
+                "id":31500,
+                "name":"Death Axe",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":100000,
+        "name":"Titan",
+        "rank number":20,
+        "rewards":[
+            {
+                "quantity":1,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena07.txt"
+    },
+    {
+        "ABP required":110000,
+        "name":"Juggernaut",
+        "rank number":21,
+        "rewards":[
+            {
+                "id":32201,
+                "name":"Prized Cloth",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":120000,
+        "name":"Behemoth",
+        "rank number":22,
+        "rewards":[
+            {
+                "id":35000,
+                "name":"Hero Stone",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":130000,
+        "name":"General",
+        "rank number":23,
+        "rewards":[
+            {
+                "quantity":1,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena08.txt"
+    },
+    {
+        "ABP required":140000,
+        "name":"Warlord",
+        "rank number":24,
+        "rewards":[
+            {
+                "id":34301,
+                "name":"Star Helm",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":150000,
+        "name":"Crusader",
+        "rank number":25,
+        "rewards":[
+            {
+                "id":35100,
+                "name":"Refined Gem",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":160000,
+        "name":"Master",
+        "rank number":26,
+        "rewards":[
+            {
+                "quantity":1,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena09.txt"
+    },
+    {
+        "ABP required":170000,
+        "name":"Hero",
+        "rank number":27,
+        "rewards":[
+            {
+                "id":34900,
+                "name":"Divine Spear",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":180000,
+        "name":"Legend",
+        "rank number":28,
+        "rewards":[
+            {
+                "id":35002,
+                "name":"Divine Stone",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":192000,
+        "name":"Archfiend",
+        "rank number":29,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena10.txt"
+    },
+    {
+        "ABP required":205000,
+        "name":"Hellhound",
+        "rank number":30,
+        "rewards":[
+            {
+                "id":35900,
+                "name":"Thief Gloves",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":219000,
+        "name":"Demon",
+        "rank number":31,
+        "rewards":[
+            {
+                "id":35800,
+                "name":"Medulla Gem",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":234000,
+        "name":"Diablo",
+        "rank number":32,
+        "rewards":[
+            {
+                "id":36400,
+                "name":"Steeple Rose",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":250000,
+        "name":"Ascended",
+        "rank number":33,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena11.txt"
+    },
+    {
+        "ABP required":267000,
+        "name":"Cherubium",
+        "rank number":34,
+        "rewards":[
+            {
+                "id":36300,
+                "name":"Evil Shard",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":285000,
+        "name":"Seraphim",
+        "rank number":35,
+        "rewards":[
+            {
+                "id":36000,
+                "name":"Omni Gizmo",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":304000,
+        "name":"Archangel",
+        "rank number":36,
+        "rewards":[
+            {
+                "id":36500,
+                "name":"King's Crown",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":324000,
+        "name":"Celestial",
+        "rank number":37,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena12.txt"
+    },
+    {
+        "ABP required":345000,
+        "name":"Divine",
+        "rank number":38,
+        "rewards":[
+            {
+                "id":33600,
+                "name":"Soul Spear",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":367000,
+        "name":"Supreme",
+        "rank number":39,
+        "rewards":[
+            {
+                "id":36100,
+                "name":"Blessed Robe",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":390000,
+        "name":"Almighty",
+        "rank number":40,
+        "rewards":[
+            {
+                "id":36200,
+                "name":"Wicked Blade",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":414000,
+        "name":"Apollo",
+        "rank number":41,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena13.txt"
+    },
+    {
+        "ABP required":439000,
+        "name":"Demeter",
+        "rank number":42,
+        "rewards":[
+            {
+                "id":36401,
+                "name":"Heavenly Bud",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":464000,
+        "name":"Aether",
+        "rank number":43,
+        "rewards":[
+            {
+                "id":34808,
+                "name":"Phoenix Eye",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":490000,
+        "name":"Moros",
+        "rank number":44,
+        "rewards":[
+            {
+                "id":36800,
+                "name":"Dragon Stud",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":516000,
+        "name":"Phanes",
+        "rank number":45,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena14.txt"
+    },
+    {
+        "ABP required":542000,
+        "name":"Bia",
+        "rank number":46,
+        "rewards":[
+            {
+                "id":36900,
+                "name":"Alzeon Pearl",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":568000,
+        "name":"Nomos",
+        "rank number":47,
+        "rewards":[
+            {
+                "id":37000,
+                "name":"Geldnite Axe",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":595000,
+        "name":"Kheiron",
+        "rank number":48,
+        "rewards":[
+            {
+                "id":37100,
+                "name":"Masamune",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":622000,
+        "name":"Eurynomos",
+        "rank number":49,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena15.txt"
+    },
+    {
+        "ABP required":649000,
+        "name":"Hephaestus",
+        "rank number":50,
+        "rewards":[
+            {
+                "id":37200,
+                "name":"Cosmic Dust",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":676000,
+        "name":"Eukleia",
+        "rank number":51,
+        "rewards":[
+            {
+                "id":37300,
+                "name":"Magic Ore",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":704000,
+        "name":"Khaos",
+        "rank number":52,
+        "rewards":[
+            {
+                "id":37400,
+                "name":"Legwand Gem",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":735000,
+        "name":"Emperor",
+        "rank number":53,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena16.txt"
+    },
+    {
+        "ABP required":767000,
+        "name":"Stareater",
+        "rank number":54,
+        "rewards":[
+            {
+                "id":40500,
+                "name":"Thief Cloak",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":800000,
+        "name":"Twilight",
+        "rank number":55,
+        "rewards":[
+            {
+                "id":41100,
+                "name":"Dragon Studs",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":835000,
+        "name":"Archgod",
+        "rank number":56,
+        "rewards":[
+            {
+                "id":41300,
+                "name":"Lament Blade",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":871000,
+        "name":"Suppressor",
+        "rank number":57,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena17.txt"
+    },
+    {
+        "ABP required":908000,
+        "name":"Lantern",
+        "rank number":58,
+        "rewards":[
+            {
+                "id":40300,
+                "name":"Flag Flower",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":946000,
+        "name":"Deva",
+        "rank number":59,
+        "rewards":[
+            {
+                "id":41200,
+                "name":"Twinkle Gem",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":986000,
+        "name":"Savior",
+        "rank number":60,
+        "rewards":[
+            {
+                "id":40700,
+                "name":"Divine Blade",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1027000,
+        "name":"Beam",
+        "rank number":61,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena18.txt"
+    },
+    {
+        "ABP required":1069000,
+        "name":"Radiance",
+        "rank number":62,
+        "rewards":[
+            {
+                "id":40800,
+                "name":"Flower Stud",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1112000,
+        "name":"Gleam",
+        "rank number":63,
+        "rewards":[
+            {
+                "id":40200,
+                "name":"Fake Stone",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1157000,
+        "name":"Star",
+        "rank number":64,
+        "rewards":[
+            {
+                "id":38601,
+                "name":"Malice Jewel",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1203000,
+        "name":"Barrager",
+        "rank number":65,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena19.txt"
+    },
+    {
+        "ABP required":1250000,
+        "name":"Looper",
+        "rank number":66,
+        "rewards":[
+            {
+                "id":41000,
+                "name":"Shiny Anklet",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1300000,
+        "name":"Darkwalker",
+        "rank number":67,
+        "rewards":[
+            {
+                "id":40900,
+                "name":"Elder Hat",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1400000,
+        "name":"Skywalker",
+        "rank number":68,
+        "rewards":[
+            {
+                "id":40400,
+                "name":"Sacred Gem",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1451000,
+        "name":"Heavenly Judge",
+        "rank number":69,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena20.txt"
+    },
+    {
+        "ABP required":1503000,
+        "name":"Calamity Host",
+        "rank number":70,
+        "rewards":[
+            {
+                "id":43000,
+                "name":"Lens Shield",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1556000,
+        "name":"Celestial God",
+        "rank number":71,
+        "rewards":[
+            {
+                "id":42500,
+                "name":"Dragon Edge",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1611000,
+        "name":"Dark Destroyer",
+        "rank number":72,
+        "rewards":[
+            {
+                "id":42000,
+                "name":"Cured Glass",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1667000,
+        "name":"Gleaming God",
+        "rank number":73,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena21.txt"
+    },
+    {
+        "ABP required":1724000,
+        "name":"Hymn God",
+        "rank number":74,
+        "rewards":[
+            {
+                "id":42400,
+                "name":"Virtue Stone",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1782000,
+        "name":"Karma Killer",
+        "rank number":75,
+        "rewards":[
+            {
+                "id":42700,
+                "name":"War Crown",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1842000,
+        "name":"Born Saint",
+        "rank number":76,
+        "rewards":[
+            {
+                "id":42800,
+                "name":"Soul Blade",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1903000,
+        "name":"Slumber God",
+        "rank number":77,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena22.txt"
+    },
+    {
+        "ABP required":1965000,
+        "name":"Cycle Cutter",
+        "rank number":78,
+        "rewards":[
+            {
+                "id":42200,
+                "name":"Astral Robe",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":2028000,
+        "name":"Ruling Star",
+        "rank number":79,
+        "rewards":[
+            {
+                "id":42600,
+                "name":"Summoner Key",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":2093000,
+        "name":"Dark Finisher",
+        "rank number":80,
+        "rewards":[
+            {
+                "id":42300,
+                "name":"Buffer Jewel",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":2159000,
+        "name":"Original God",
+        "rank number":81,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena23.txt"
+    },
+    {
+        "ABP required":2226000,
+        "name":"Wise Soul",
+        "rank number":82,
+        "rewards":[
+            {
+                "id":42100,
+                "name":"True Ore",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":2294000,
+        "name":"North Star",
+        "rank number":83,
+        "rewards":[
+            {
+                "id":42900,
+                "name":"Star Flower",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":2400000,
+        "name":"Radiant Saint",
+        "rank number":84,
+        "rewards":[
+            {
+                "id":43100,
+                "name":"Sacred Lance",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":2472000,
+        "name":"Darkstalker",
+        "rank number":85,
+        "rewards":[
+            {
+                "quantity":5,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena24.txt"
+    },
+    {
+        "ABP required":2547000,
+        "name":"Daybreaker",
+        "rank number":86,
+        "rewards":[
+            {
+                "id":46900,
+                "name":"Dragon Earrings",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":2625000,
+        "name":"Doombearer",
+        "rank number":87,
+        "rewards":[
+            {
+                "id":46700,
+                "name":"Sky Helmet",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":2706000,
+        "name":"Lightbringer",
+        "rank number":88,
+        "rewards":[
+            {
+                "id":46500,
+                "name":"Divine Wings",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":2792000,
+        "name":"Ouranos",
+        "rank number":89,
+        "rewards":[
+            {
+                "quantity":5,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena25.txt"
+    },
+    {
+        "ABP required":2883000,
+        "name":"Asteria",
+        "rank number":90,
+        "rewards":[
+            {
+                "id":46100,
+                "name":"Thief Crown",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":2979000,
+        "name":"Astraeus",
+        "rank number":91,
+        "rewards":[
+            {
+                "id":46800,
+                "name":"Monarch Sash",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":3080000,
+        "name":"Perses",
+        "rank number":92,
+        "rewards":[
+            {
+                "id":47000,
+                "name":"Sacred Dagger",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":3188000,
+        "name":"Phoebus",
+        "rank number":93,
+        "rewards":[
+            {
+                "quantity":5,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena26.txt"
+    },
+    {
+        "ABP required":3303000,
+        "name":"Dionysus",
+        "rank number":94,
+        "rewards":[
+            {
+                "id":46000,
+                "name":"Wisdom Flower",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":3425000,
+        "name":"Aion",
+        "rank number":95,
+        "rewards":[
+            {
+                "id":46300,
+                "name":"Fury Core",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":3554000,
+        "name":"Erebus",
+        "rank number":96,
+        "rewards":[
+            {
+                "id":46200,
+                "name":"Occult Treasure",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":3692000,
+        "name":"Athena",
+        "rank number":97,
+        "rewards":[
+            {
+                "quantity":5,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena27.txt"
+    },
+    {
+        "ABP required":3840000,
+        "name":"Coronides",
+        "rank number":98,
+        "rewards":[
+            {
+                "id":46600,
+                "name":"Emperor Axe",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":4000000,
+        "name":"Eris",
+        "rank number":99,
+        "rewards":[
+            {
+                "id":46400,
+                "name":"Guardian Spirit",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":4200000,
+        "name":"Zeus",
+        "rank number":100,
+        "rewards":[
+            {
+                "id":47100,
+                "name":"Sacred Staff",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":4200500,
+        "name":"Thanatos",
+        "rank number":101,
+        "rewards":[
+            {
+                "id":47400,
+                "name":"Sky Orb",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    }
+]
