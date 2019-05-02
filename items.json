@@ -25868,7 +25868,7 @@
     },
     "801002":{
         "color":"purple",
-        "desc":"MST_ITEMS_MATERIAL_801002_SHORTDESCRIPTION",
+        "desc":"A glowing, rectangular object that is warm to the touch.",
         "effects":[
             {
                 "params":"",
@@ -25891,7 +25891,7 @@
     },
     "801003":{
         "color":"purple",
-        "desc":"MST_ITEMS_MATERIAL_801003_SHORTDESCRIPTION",
+        "desc":"A mysteriously heavy device that is strangely warm to the touch.",
         "effects":[
             {
                 "params":"",
@@ -25914,7 +25914,7 @@
     },
     "801004":{
         "color":"purple",
-        "desc":"MST_ITEMS_MATERIAL_801004_SHORTDESCRIPTION",
+        "desc":"A strange device that lets you see faraway things with ease.",
         "effects":[
             {
                 "params":"",
@@ -25937,7 +25937,7 @@
     },
     "801005":{
         "color":"purple",
-        "desc":"MST_ITEMS_MATERIAL_801005_SHORTDESCRIPTION",
+        "desc":"A mechanical device that has been engineered to perfection.",
         "effects":[
             {
                 "params":"",
@@ -34538,7 +34538,7 @@
                 "proc id":"66"
             },
             {
-                "params":"10500,0&7000&7000&7000&,-1,15,1",
+                "params":"10500,0&7000&7000&7000,-1,15,2",
                 "proc id":"82"
             }
         ],
@@ -34554,7 +34554,7 @@
         "sale price":999999,
         "sphere type":"Status Ailments Resistant Types",
         "target":"none",
-        "thumbnail":"sphere_thum_2_2.png",
+        "thumbnail":"ls_sphere_thum_2_2.png",
         "type":"sphere"
     },
     "819216":{
@@ -35163,6 +35163,45 @@
         "thumbnail":"sphere_thum_819229.png",
         "type":"sphere"
     },
+    "819230":{
+        "desc":"100% boost to Atk and 40% boost to max HP of Light types, boosts Light elemental damage, hugely boosts Spark damage for 2 turns when Sparks have exceeded certain amount, adds max HP boost effect to self to BB/SBB & adds Def ignoring effect to attack",
+        "effects":[
+            {
+                "params":"5,0,100,0,0,0,40",
+                "proc id":"2"
+            },
+            {
+                "params":"5,0,0,0,0,0,1.25",
+                "proc id":"50"
+            },
+            {
+                "params":"40,75,-1,15,2",
+                "proc id":"86"
+            },
+            {
+                "params":"92,0&15&0,3,1,0,1,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"100",
+                "proc id":"29"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819230",
+        "id":"819230",
+        "lore":"This vulpine trinket is a cherished possession of Hakuzo, a mercenary of the Seventh Circle Fiends. A ring of foreign runes, said to be from a forgotten land of warrior monks and wandering swordsmen, glows around it. Hakuzo has a rather foxish demeanor about him, from his sharp eyes to the bushy tail affixed upon his wide-brimmed hat.<br><br>Many tales from his supposed land of origin speak of shapeshifting animals, foxes the most notorious among them.<br><br>Though some foxes there are messengers of a god, many more simply prefer to assume the appearance of their divine brethren for their own ends.",
+        "max equip":1,
+        "max stack":1,
+        "name":"Hakuzo's Deceit",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"Defense Penetrating Type",
+        "target":"none",
+        "thumbnail":"sphere_thum_819230.png",
+        "type":"sphere"
+    },
     "819234":{
         "desc":"100% boost to Atk and 40% boost to max HP of Water types, boosts Water elemental damage, adds Def ignoring effect to attack, boosts damage against status afflicted foes & boosts BB gauge when damage dealt has exceeded certain amount",
         "effects":[
@@ -35317,6 +35356,378 @@
         "sphere type":"Status Boost Type",
         "target":"none",
         "thumbnail":"item_thum_819237.png",
+        "type":"sphere"
+    },
+    "819238":{
+        "desc":"100% boost to Spark damage, probable Spark critical, Spark damage restores HP, Spark vulnerability infliction for 2 turns & 150% boost to Atk when Sparks exceed certain amount",
+        "effects":[
+            {
+                "params":"20,100,1,0",
+                "proc id":"75"
+            },
+            {
+                "params":"100,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"60,50",
+                "proc id":"100"
+            },
+            {
+                "params":"400,600,100",
+                "proc id":"101"
+            },
+            {
+                "params":"1,150,-1,10,2",
+                "proc id":"86"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819238",
+        "id":"819238",
+        "lore":"The heirloom held by the Kusanagi clan, it was used in a powerful rite to seal the power of Orochi. A majestic sword of impressive proportions, its true form is known only to a select few, yet many covet the power and prestige that it holds.",
+        "max equip":1,
+        "max stack":1,
+        "name":"Kusanagi Sword",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"Spark Type",
+        "target":"none",
+        "thumbnail":"item_thum_819238.png",
+        "type":"sphere"
+    },
+    "819239":{
+        "desc":"175% Atk, 20% all parameters (Breaker), 200% elemental damage, 125% Spark damage, raises max Atk limit to 190000, add to BB/SBB [chance to purge Atk boost] & increases BB activation cost\t\t\t\t\t\t\t\t\t",
+        "effects":[
+            {
+                "params":"1,2,3,4,5,6,2",
+                "proc id":"50"
+            },
+            {
+                "params":"175,0,0,0,0",
+                "proc id":"1"
+            },
+            {
+                "params":"190000",
+                "proc id":"143"
+            },
+            {
+                "params":"3,20,20,20,0,20",
+                "proc id":"3"
+            },
+            {
+                "params":"10019,1&13&0&0&0&0&0&0&0&20,2,2,0,1,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"125,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"-15",
+                "proc id":"48"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"1000027",
+        "id":"819239",
+        "lore":"A cacophony of voices fills the user's mind, roaring with battle rage. It is as though the blade is infused with souls that believe they are still fighting on battlefields long destroyed.<br><br>Giselle recommends that Summoners take frequent breaks when using this item, lest the voices become indistinguishable from one's own. <br><br>A swordsman with extraordinary clarity is able to discern an occasional shriek: \"Khree!\"",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819239_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":999999,
+        "sphere type":"Atk Boosting",
+        "target":"none",
+        "thumbnail":"sphere_thum_819239.png",
+        "type":"sphere"
+    },
+    "819240":{
+        "desc":"45% all parameters (Male, Genderless), 160% Spark damage, Sparks restore HP and fill BB gauge, probable Spark critical, add to BB/SBB [chance to purge Sick, Poison negation] & increases BB activation cost",
+        "effects":[
+            {
+                "params":"160,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"600,800,100",
+                "proc id":"101"
+            },
+            {
+                "params":"300,400,100",
+                "proc id":"47"
+            },
+            {
+                "params":"50,150",
+                "proc id":"100"
+            },
+            {
+                "params":"1,45,45,45,0,45",
+                "proc id":"42"
+            },
+            {
+                "params":"0,45,45,45,0,45",
+                "proc id":"42"
+            },
+            {
+                "params":"10019,30&32&0&0&0&0&0&0&0&20,2,2,0,1,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"-15",
+                "proc id":"48"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"1000031",
+        "id":"819240",
+        "lore":"This orb gives off a comfortably warm aura, embracing and entertaining nearby listeners with an enjoyable song.<br><br>Lost in the raging tides of Orebus' constant wars, lovers cling closely and tentatively to each other. Attachment to other beings was frowned upon by society and feared by individuals, as existence on Orebus was generally... rather transient. However, those who did take the plunge into relationships were rewarded beyond their wildest dreams with a hitherto unencountered sense of satisfaction.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819240_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":999999,
+        "sphere type":"Spark Type",
+        "target":"none",
+        "thumbnail":"sphere_thum_819240.png",
+        "type":"sphere"
+    },
+    "819241":{
+        "desc":"50% all parameters, 30% all parameters (Female, Genderless), 150% elemental damage, fills BB gauge when 10k damage dealt, add to BB/SBB [chance to purge Atk, Def, Rec reduction negation] & increases BB activation cost",
+        "effects":[
+            {
+                "params":"55,55,55,0,55",
+                "proc id":"1"
+            },
+            {
+                "params":"1,2,3,4,5,6,1.75",
+                "proc id":"50"
+            },
+            {
+                "params":"2000,0,10000",
+                "proc id":"81"
+            },
+            {
+                "params":"2,30,30,30,0,30",
+                "proc id":"42"
+            },
+            {
+                "params":"0,30,30,30,0,30",
+                "proc id":"42"
+            },
+            {
+                "params":"10019,120&121&122&0&0&0&0&0&0&20,2,2,0,1,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"-10",
+                "proc id":"48"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"1000032",
+        "id":"819241",
+        "lore":"This seal emanates waves of remorse, with a sobbing that is barely detectable even in a quiet place. The sounds evoke a person choking back their tears in the dark of a night, knowing that the dire present and desolate future are nothing more than the accumulation of their past mistakes.<br><br>A strong Summoner learns a crucial lesson from the seal to avoid letting past mistakes force their hand into making new ones; a weak Summoner allows themselves to be paralysed by indecision and second-guessing, overwhelmed by the power of regret.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819241_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":999999,
+        "sphere type":"Status Boost Type",
+        "target":"none",
+        "thumbnail":"sphere_thum_819241.png",
+        "type":"sphere"
+    },
+    "819242":{
+        "desc":"55% all parameters, 30% all parameters (Anima), 15% elemental damage reduction, probable resistance against 1 KO attack when 120k damage taken, add to BB/SBB [chance to purge Injury, Paralysis negation] & increases BB activation cost",
+        "effects":[
+            {
+                "params":"55,55,55,0,55",
+                "proc id":"1"
+            },
+            {
+                "params":"1,2,3,4,5,6,15",
+                "proc id":"62"
+            },
+            {
+                "params":"91,25&100,3,120000,999",
+                "proc id":"78"
+            },
+            {
+                "params":"2,30,30,30,0,30",
+                "proc id":"3"
+            },
+            {
+                "params":"10019,33&35&0&0&0&0&0&0&0&20,2,2,0,1,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"-10",
+                "proc id":"48"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"1000030",
+        "id":"819242",
+        "lore":"The Artificial Intelligence within the armor has grown even more active after absorbing the Whispering Shard. It beeps and whistles every so often, as if trying to communicate with the wearer.<br><br>The Greherd of Orebus were well known for their disposition towards technology, and a significant portion of their population and resources were focused towards all sorts of research fields. It seems that death did nothing to diminish these scientists' passions, and their souls gravitated to Beiorg's successor.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819242_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":999999,
+        "sphere type":"Status Boost Type",
+        "target":"none",
+        "thumbnail":"sphere_thum_819242.png",
+        "type":"sphere"
+    },
+    "819243":{
+        "desc":"50% all parameters (Oracle), negates all status ailments, fills BB gauge each turn, add to BB/SBB [remove all status ailments and Atk, Def, Rec reduction, chance to purge Curse, Weak negation] & activates 8000 HP Shield when 15 BC collected",
+        "effects":[
+            {
+                "params":"100,100,100,100,100,100",
+                "proc id":"4"
+            },
+            {
+                "params":"3000",
+                "proc id":"9"
+            },
+            {
+                "params":"38,1&2&3&4&5&6&7&8&9,1,2,0,1,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"5,50,50,50,0,50",
+                "proc id":"3"
+            },
+            {
+                "params":"10019,31&34&0&0&0&0&0&0&0&20,2,2,0,1,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"10500,0&8000&8000&8000,-1,15,2",
+                "proc id":"82"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"1000028",
+        "id":"819243",
+        "lore":"Anyone who wears this mask hears only a mournful choir, filled with sorrow over an unknown catastrophe. The elegy seemed to be about an event that had yet to occur, however -- foreseen, tragic, and inevitable.<br><br>Some Summoners have been known to enjoy its lamentations, treating it as a sort of ominous entertainment or grim prophecy.<br><br>Advanced meditation may help soothsayers discern the image of a looming fleet of shining golden shapes against a midnight sky.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819243_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":999999,
+        "sphere type":"Status Ailments Resistant Types",
+        "target":"none",
+        "thumbnail":"sphere_thum_819243.png",
+        "type":"sphere"
+    },
+    "819244":{
+        "desc":"50% all parameters (Guardian), probable damage reduction to 1, damage taken fills BB gauge and may restore HP, add to BB/SBB [chance to purge Atk, Def, Rec reduction negation], restores HP each turn & increases BB activation cost",
+        "effects":[
+            {
+                "params":"25",
+                "proc id":"43"
+            },
+            {
+                "params":"5000,7000,100",
+                "proc id":"33"
+            },
+            {
+                "params":"40,40,50",
+                "proc id":"24"
+            },
+            {
+                "params":"4,50,50,50,0,50",
+                "proc id":"3"
+            },
+            {
+                "params":"10019,120&121&122&0&0&0&0&0&0&20,2,2,0,1,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"-15",
+                "proc id":"48"
+            },
+            {
+                "params":"600,800,100",
+                "proc id":"25"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"1000029",
+        "id":"819244",
+        "lore":"Upon donning the armor, an almost deafening silence is immediately apparent. The story of the nomads of Orebus is one told in hushed tones. Unwilling to join any of the six factions of Orebus, countless tribes of nomads hid themselves away.<br><br>From the raging wars between the factions and the golden ships from beyond the limits of the sky, to the golems and their pointless wars, the nomads had seen it all.<br><br>Though many died, the remainder clung desperately to life. Generations of silence had bred noise out of the race, and it was the faint hope of peace in a distant future that kept the nomads going.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819244_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":999999,
+        "sphere type":"Damage Reducing Type",
+        "target":"none",
+        "thumbnail":"sphere_thum_819244.png",
+        "type":"sphere"
+    },
+    "819245":{
+        "desc":"75% all parameters, counters damage, adds ailments, reduces DoT duration by 3 turns, fully fills BB gauge when 50k damage dealt, 250% elemental damage, add to BB/SBB [chance to purge ailment negation effects] & add to LS [20% all parameters]",
+        "effects":[
+            {
+                "params":"75,75,75,0,75",
+                "proc id":"1"
+            },
+            {
+                "params":"75,75,100",
+                "proc id":"26"
+            },
+            {
+                "params":"1,100,2,100,3,100,4,100",
+                "proc id":"20"
+            },
+            {
+                "params":"5,100,6,100,0,0,0,0",
+                "proc id":"20"
+            },
+            {
+                "params":"71,-3,0,0,0,0,0,0,0,0",
+                "proc id":"11009"
+            },
+            {
+                "params":"1,20$20$20$0$20",
+                "proc id":"107"
+            },
+            {
+                "params":"10019,30&31&32&33&34&35&0&0&0&30,2,2,0,1,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"0,200,50000",
+                "proc id":"81"
+            },
+            {
+                "params":"1,2,3,4,5,6,2.5",
+                "proc id":"50"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"1000033",
+        "id":"819245",
+        "lore":"You have no idea what this object is supposed to look like. It has no shape, yet it has a million shapes. It has no color, but it contains the entire spectrum of light. Noel tells you that his brain and yours are both unable to comprehend the object, and that other mortals would probably see even less. Is it made of matter? Does it matter?<br><br>This sphere contains many brave souls who fought to the very end for their commanders. Holding it bolsters the user's resolve tenfold, and combat leaders are able to use its power to sharpen the fighting spirit of their subordinates.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819245_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":999999,
+        "sphere type":"Damage Reflecting Type",
+        "target":"none",
+        "thumbnail":"sphere_thum_819245.png",
         "type":"sphere"
     },
     "819901":{
@@ -40936,6 +41347,75 @@
         "sale price":5000,
         "target":"none",
         "thumbnail":"item_thum_704.png",
+        "type":"material"
+    },
+    "890033":{
+        "color":"gray",
+        "desc":"A confluence of souls, fossilized in ancient amber.",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"true",
+        "guide id":"8152",
+        "id":"890033",
+        "item type":"stone",
+        "lore":"A confluence of souls, fossilized in ancient amber. Magical sensors near the stone are inundated with a multitude of voices and emotions. Calibrated sensors are able to identify Orebi accents and dialects among the psychic clamor.",
+        "max stack":99,
+        "name":"MST_ITEMS_MATERIAL_890033_NAME",
+        "rarity":3,
+        "sale caution":"false",
+        "sale price":5000,
+        "target":"none",
+        "thumbnail":"item_thum_890033.png",
+        "type":"material"
+    },
+    "890034":{
+        "color":"gray",
+        "desc":"A trinket from a faraway land, said to bring good luck to its recipient. This one seems...off.",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"true",
+        "guide id":"8153",
+        "id":"890034",
+        "item type":"stone",
+        "lore":"A bundle of ashen feathers, petrified leaves, and twigs tied up with a golden cord. In some faraway lands, this trinket is said to bestow blessings upon the recipient, and is often received from a monk or priest in the temple.<br><br>The demand of this item is so high in some areas that the temples are unwilling to distribute more than they claim their gods can provide. In dark alleys and lonely street corners, though, the truly desperate might come across a handful of these for sale for a good amount of coin from foxish individuals.",
+        "max stack":99,
+        "name":"MST_ITEMS_MATERIAL_890034_NAME",
+        "rarity":3,
+        "sale caution":"false",
+        "sale price":5000,
+        "target":"none",
+        "thumbnail":"item_thum_104.png",
+        "type":"material"
+    },
+    "890035":{
+        "color":"gray",
+        "desc":"A cast-off scrap of material that feels cold to the touch. Slightly burned at the edges.",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"true",
+        "guide id":"8154",
+        "id":"890035",
+        "item type":"stone",
+        "lore":"Dull and slightly burned, this scrap of material feels cold to the touch. Peering closely, it seems to resemble the white robes of a warrior monk.<br>Its jagged edges suggest it was torn off in a hurry, perhaps in response to fire of some kind. It is notably missing the sort of smoky smell you'd expect it to have, though.<br><br>Tales of monks and priests from that faraway land speak of their unique ability to channel divine energy into a searing light, causing deceitful creatures of evil to burst into holy flame upon contact.",
+        "max stack":99,
+        "name":"MST_ITEMS_MATERIAL_890035_NAME",
+        "rarity":3,
+        "sale caution":"false",
+        "sale price":5000,
+        "target":"none",
+        "thumbnail":"item_thum_804.png",
         "type":"material"
     },
     "899998":{

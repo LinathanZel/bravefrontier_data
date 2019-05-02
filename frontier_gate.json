@@ -3659,7 +3659,7 @@
     },
     "109":{
         "desc":"MST_FROGATE109_DESC",
-        "end time":"1554710399",
+        "end time":"-62169984000",
         "id":"109",
         "name":"MST_FROGATE109_NAME",
         "restrictions":"2:1:8,@0",
@@ -4116,7 +4116,7 @@
                 "reward type":"4"
             }
         ],
-        "start time":"1538726400"
+        "start time":"1556697600"
     },
     "1091":{
         "desc":"MST_FROGATE1091_DESC",
