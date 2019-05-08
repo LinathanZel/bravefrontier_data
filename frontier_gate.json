@@ -3659,7 +3659,7 @@
     },
     "109":{
         "desc":"MST_FROGATE109_DESC",
-        "end time":"-62169984000",
+        "end time":"1556784000",
         "id":"109",
         "name":"MST_FROGATE109_NAME",
         "restrictions":"2:1:8,@0",
@@ -4120,7 +4120,7 @@
     },
     "1091":{
         "desc":"MST_FROGATE1091_DESC",
-        "end time":"1556697599",
+        "end time":"-62169984000",
         "id":"1091",
         "name":"MST_FROGATE1091_NAME",
         "restrictions":"2:1:8,@0",
@@ -4610,7 +4610,7 @@
                 "reward type":"8004"
             }
         ],
-        "start time":"1554710400"
+        "start time":"-62169984000"
     },
     "11":{
         "desc":"This trial program will test your limits  until you use the last of your strength.  Consider your options and go forth with a solid group!",

@@ -18498,8 +18498,8 @@
         "rarity":1
     },
     "810178":{
-        "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
-        "desc":"Critical damage boosts BB gauge, probable damage reduction to 1 & adds Fire element to BB/SBB for 3 turns",
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"20% boost to all parameters, critical damage enormously boosts BB gauge, probable damage reduction to 1, probable resistance against 2 KO attacks & adds probable evasion for 2 turns effect to BB/SBB",
         "effects":[
             {
                 "params":"1000,1000,100",
@@ -18510,7 +18510,18 @@
                 "take 1 dmg%":20
             },
             {
-                "params":"30,1&0&0&0&0&0&3&100,1,2,0,1,1,0",
+                "params":"0,2,40,40,0",
+                "passive id":"69"
+            },
+            {
+                "atk% buff":20,
+                "def% buff":20,
+                "hp% buff":20,
+                "passive id":"1",
+                "rec% buff":20
+            },
+            {
+                "params":"10007,100&2&0&15,1,2,0,1,1,0",
                 "passive id":"66"
             }
         ],
@@ -21358,8 +21369,8 @@
         "rarity":1
     },
     "830178":{
-        "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
-        "desc":"Negates critical, elemental damage and Def ignoring damage",
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"20% boost to all parameters, negates critical and elemental damage for all allies, negates Def ignoring effects, probable resistance against 2 KO attacks & 15% additional damage reduction for all allies",
         "effects":[
             {
                 "base crit chance resist%":100,
@@ -21373,6 +21384,21 @@
             {
                 "params":"100",
                 "passive id":"92"
+            },
+            {
+                "params":"0,2,40,40,0",
+                "passive id":"69"
+            },
+            {
+                "atk% buff":20,
+                "def% buff":20,
+                "hp% buff":20,
+                "passive id":"1",
+                "rec% buff":20
+            },
+            {
+                "params":"100,15",
+                "passive id":"127"
             }
         ],
         "id":"830178",
@@ -26685,50 +26711,85 @@
     },
     "860727":{
         "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
-        "desc":"MST_EXTRAPASSIVESKILL_860727_DESCRIPTION",
+        "desc":"15% boost to Atk, max HP for all allies, adds Def ignoring effect to attacks for all allies & considerably boosts Spark damage",
         "effects":[
             {
-                "atk% buff":10,
-                "def% buff":10,
-                "hp% buff":10,
-                "passive id":"2",
-                "rec% buff":10
+                "ignore def%":100,
+                "passive id":"29"
+            },
+            {
+                "atk% buff":15,
+                "hp% buff":15,
+                "passive id":"1"
+            },
+            {
+                "dmg% for spark":100,
+                "passive id":"31"
             }
         ],
         "id":"860727",
-        "name":"MST_EXTRAPASSIVESKILL_860727_NAME",
+        "name":"Waker of the Blood",
         "rarity":7
     },
     "860728":{
         "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
-        "desc":"MST_EXTRAPASSIVESKILL_860728_DESCRIPTION",
+        "desc":"30% boost to Atk, max HP for all allies, adds Def ignoring effect to attacks for all allies, considerably boosts Spark damage, probable damage reduction to 1 & negates critical and elemental damage",
         "effects":[
             {
-                "atk% buff":10,
-                "def% buff":10,
-                "hp% buff":10,
-                "passive id":"2",
-                "rec% buff":10
+                "ignore def%":100,
+                "passive id":"29"
+            },
+            {
+                "atk% buff":30,
+                "hp% buff":30,
+                "passive id":"1"
+            },
+            {
+                "dmg% for spark":100,
+                "passive id":"31"
+            },
+            {
+                "passive id":"43",
+                "take 1 dmg%":15
+            },
+            {
+                "base crit chance resist%":100,
+                "base crit dmg resist%":100,
+                "base elemental damage resist%":100,
+                "buffed crit chance resist%":100,
+                "buffed crit dmg resist%":100,
+                "buffed elemental damage resist%":100,
+                "passive id":"53"
             }
         ],
         "id":"860728",
-        "name":"MST_EXTRAPASSIVESKILL_860728_NAME",
+        "name":"Soul of the Earth",
         "rarity":7
     },
     "860738":{
-        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
-        "desc":"MST_EXTRAPASSIVESKILL_860738_DESCRIPTION",
+        "conditions":"1#1,819236%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"Raises Atk parameter limits to 180,000 when Yasakani Jewel is equipped, considerably boosts Atk when HP is below 90%, greatly boosts critical damage & 15% increase to damage received",
         "effects":[
             {
-                "atk% buff":10,
-                "def% buff":10,
-                "hp% buff":10,
-                "passive id":"2",
-                "rec% buff":10
+                "params":"180000",
+                "passive id":"143"
+            },
+            {
+                "atk% buff":100,
+                "hp below% threshold":90,
+                "passive id":"11"
+            },
+            {
+                "crit dmg%":100,
+                "passive id":"34"
+            },
+            {
+                "params":"-15,100,-15,100,-15,100,-15,100,0,0",
+                "passive id":"10008"
             }
         ],
         "id":"860738",
-        "name":"MST_EXTRAPASSIVESKILL_860738_NAME",
+        "name":"Vessel of Accursed Divinity",
         "rarity":7
     },
     "860900":{
@@ -26832,7 +26893,7 @@
     },
     "8850001":{
         "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
-        "desc":"MST_EXTRAPASSIVESKILL_8850001_DESCRIPTION",
+        "desc":"10% boost to Atk and considerably boosts BB gauge when guarding for all allies, 150% boost to Atk, greatly boosts critical hit rate & adds probability of activating BB/SBB/UBB twice for 3 turns effect to UBB",
         "effects":[
             {
                 "atk% buff":10,
@@ -26853,12 +26914,12 @@
             }
         ],
         "id":"8850001",
-        "name":"MST_EXTRAPASSIVESKILL_8850001_NAME",
+        "name":"Master of the Hunt",
         "rarity":8
     },
     "8850002":{
         "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
-        "desc":"MST_EXTRAPASSIVESKILL_8850002_DESCRIPTION",
+        "desc":"40% boost to max HP, boosts Atk and Def relative to Rec, enormously boosts BB gauge each turn, activates at turn's end effects during turn's start instead & adds greatly restores HP effect to BB/SBB",
         "effects":[
             {
                 "atk% buff":20,
@@ -26884,12 +26945,12 @@
             }
         ],
         "id":"8850002",
-        "name":"MST_EXTRAPASSIVESKILL_8850002_NAME",
+        "name":"Sacred Word",
         "rarity":7
     },
     "8850003":{
         "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
-        "desc":"MST_EXTRAPASSIVESKILL_8850003_DESCRIPTION",
+        "desc":"75% boost to Atk, considerably boosts elemental damage, critical damage and Spark damage & hugely boosts OD gauge fill rate",
         "effects":[
             {
                 "atk% buff":75,
@@ -26921,7 +26982,7 @@
             }
         ],
         "id":"8850003",
-        "name":"MST_EXTRAPASSIVESKILL_8850003_NAME",
+        "name":"Final Judgement",
         "rarity":7
     },
     "8900":{
